@@ -1,4 +1,4 @@
-# python_ml_practice
+# Python_ML_Practice
 ## Overview
 This repository contains Python practice problems to strengthen coding skills in basics, loops, functions, and small scripts.
 
