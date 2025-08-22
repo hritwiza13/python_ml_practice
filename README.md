@@ -46,6 +46,6 @@ If you’d like to add new problems, improve solutions, or enhance documentation
 
 - 💻 GitHub: [hritwiza13](https://github.com/hritwiza13)  
 - 🌐 Portfolio: [hritwiza13.github.io/my-portfolio](https://hritwiza13.github.io/my-portfolio/)  
-- 💼 LinkedIn: [Hritwiza Gupta](https://www.linkedin.com/in/hritwiza13)  
+- 💼 LinkedIn: [Hritwiza Gupta](www.linkedin.com/in/hritwizagupta)  
 
 
