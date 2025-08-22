@@ -42,10 +42,10 @@ Python_ML_Practice/
 Contributions are welcome! 🎉
 If you’d like to add new problems, improve solutions, or enhance documentation, feel free to fork this repo and submit a pull request.
 
-📬 Connect with Me
+## 📬 Connect with Me  
 
-👩‍💻 Hritwiza Gupta
-🔗 GitHub 
-🔗 Portfolio
-🔗 LinkedIn
+- 💻 GitHub: [hritwiza13](https://github.com/hritwiza13)  
+- 🌐 Portfolio: [hritwiza13.github.io/my-portfolio](https://hritwiza13.github.io/my-portfolio/)  
+- 💼 LinkedIn: [Hritwiza Gupta](https://www.linkedin.com/in/hritwiza13)  
+
 
